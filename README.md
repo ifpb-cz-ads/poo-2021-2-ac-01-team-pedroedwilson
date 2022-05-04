@@ -31,6 +31,19 @@ Error retornado:
 Não foi possível localizar nem carregar a classe principal
 ```
 
+# Questão 5
+
+> Mude o nome do método “main” para “start”, compile e execute. O que
+aconteceu?
+
+O interpretador **java** não encontra o método "main" e o terminal retorna o seguinte erro:
+
+```
+o método main não foi encontrado na classe PrimeiroPrograma; defina o método main como:
+   public static void main(String[] args)
+ou uma classe de aplicativo JavaFX deve expandir javafx.application.Application
+```
+
 # Questão 6
 
 > Crie um programa Java para imprimir duas linhas de texto usando duas linhas de código “System.out”, onde aparecerá o seu nome na primeira linha e na segunda linha aparecerá o time para o qual você torce.

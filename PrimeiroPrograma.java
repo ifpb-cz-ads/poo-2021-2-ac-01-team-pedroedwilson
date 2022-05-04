@@ -1,4 +1,4 @@
-// Programa referente a questão 3
+// Programa referente a questão 3, 4 e 5
 
 public class PrimeiroPrograma {
 
