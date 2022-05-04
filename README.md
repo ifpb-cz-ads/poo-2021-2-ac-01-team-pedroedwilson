@@ -1,3 +1,9 @@
+# Questão 1
+
+> Explique qual a função da Máquina Virtual Java (JVM).
+
+A **JVM** tem a função de interpretar os códigos em bytecode (.class) os traduzindo para um formato que o sistema operacional compreenda. É ela que permite que um mesmo bytecode seja executado em diferentes sistemas operacionais sem precisar de  alteração, contanto que a **JVM** esteja instalada.
+
 # Questão 2
 
 > Qual a diferença entre JRE e JDK?
