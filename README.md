@@ -28,7 +28,7 @@ Ele retorna um **error**, ao qual ele procura o arquivo compilado **.class**, ma
 Error retornado:
 
 ```
-Não foi possível localizar nem carregar a classe principal
+Não foi possível localizar nem carregar a classe principal PrimeiroPrograma
 ```
 
 # Questão 5
@@ -76,7 +76,7 @@ NomeMaisTime.java:12: error: class, interface, enum, or record expected
 
 Ao salvar o arquivo com um nome diferente ele compila normalmente, mas como resultado, temos apenas um arquivo com o nome dado a classe, tendo a extesão .class.
 
-Ao tentarmos executar o nome do arquivo com a extensão .java, ele retornar o mesmo error dito na questão 2, mas se executarmos o arquivo com a extensão .class, ele rodará normalmente.
+Ao tentarmos executar o nome do arquivo com a extensão .java, ele retornar o mesmo error dito na questão 4, mas se executarmos o arquivo com a extensão .class, ele rodará normalmente.
 
 Digamos que tenhamos uma class com o nome HelloWorld:
 
