@@ -50,6 +50,26 @@ ou uma classe de aplicativo JavaFX deve expandir javafx.application.Application
 
 Atividade adicionada por meio do arquivo, para acessar o .java, clique [aqui](https://github.com/ifpb-cz-ads/poo-2021-2-ac-01-team-pedroedwilson/blob/Pedro/NomeMaisTime.java).
 
+# Questão 7
+
+> Experimente escrever todo o programa anterior em maiúsculo, compile e
+execute. O que aconteceu?
+
+Devido a linguagem Java ser **case-sensitive**, o que significa que nela ocorre uma diferenciação entre letras minúsculas e maiúsculas, o terminal retorna o seguinte erro:
+
+```
+NomeMaisTime.java:8: error: class, interface, enum, or record expected
+CLASS NOMEMAISTIME {
+^
+NomeMaisTime.java:11: error: class, interface, enum, or record expected
+        SYSTEM.OUT.PRINTLN("TIME QUE TORCE: FLAMENGO");
+        ^
+NomeMaisTime.java:12: error: class, interface, enum, or record expected
+    }
+    ^
+3 errors
+```
+
 # Questão 8
 
 > Experimente salvar o arquivo com um nome diferente do nome da classe, compile e execute. O que aconteceu?
