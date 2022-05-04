@@ -13,6 +13,13 @@ De forma simplificada ambos são diferentes por causa que:
 * A **JRE** é o ambiente de Execução do Java, ao qual **fornece as bibliotecas** padrões do Java. 
 * Já o **JDK** é o kit de desenvolvimento java, ele é responsável por **compilar** código-fonte (.java) em bytecode (.class)
 
+# Questão 3
+
+> Crie um programa Java que imprima o seguinte texto “Terminei a primei-
+ra aula com um programa Java!”.
+
+Para acessar o programa Java desta questão, clique [aqui](https://github.com/ifpb-cz-ads/poo-2021-2-ac-01-team-pedroedwilson/blob/edwilson/PrimeiroPrograma.java).
+
 # Questão 4
 
 > Compile o programa desenvolvido no exercício anterior. A seguir apague o arquivo .class gerado e tente executar o programa. O que aconteceu?
